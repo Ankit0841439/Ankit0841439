@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit0841439
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Live Projects
+- 👀 I’m interested in Software Development (MERN Stack Development)
+- 🌱 I’m currently appearing BCA (Bachlor in Computer Application)
+- 💞️ I’m looking for a job, to start my carrer 
 - 📫 How to reach me ankit0841439@gmail.com
 - 😄 Pronouns: Ankit
 - ⚡ fact : Reading spritual book
