@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit0841439
 - 👀 I’m interested in Software Development (MERN Stack Development)
-- 🌱 I’m currently appearing in BCA (Bachlor in Computer Application)
+- 🌱 I’m currently appearing in BCA (Bachelor in Computer Application)
 - 💞️ I’m looking for a job, to start my carrer 
 - 📫 How to reach me ankit0841439@gmail.com
 - 😄 Pronouns: Ankit
