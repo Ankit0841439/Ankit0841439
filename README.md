@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Ankit0841439
+- 👋 Hi, I’m ANKIT KUMAR
 - 👀 I’m interested in Software Development (MERN Stack Development)
-- 🌱 I’m currently appearing in BCA (Bachelor in Computer Application)
+- 🌱 I recently graduated from Maulana mazrule haque university, Patna with a degree BCA (Bachelor in Computer Application)
 - 💞️ I’m looking for a job, to start my carrer 
 - 📫 How to reach me ankit0841439@gmail.com
 - 😄 Pronouns: Ankit
-- ⚡ fact : Reading spritual book
+- ⚡ fact : Playing games & Reading spritual book
 
 <!---
 Ankit0841439/Ankit0841439 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
